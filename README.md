@@ -1,7 +1,7 @@
 # Workout Tracker
 
   ## Description
-   This app will allow a user to view, create and track their daily workouts.  The user will be able to log multiple excercises on any given day.  They should also be able to track the name, type, weight, sets, reps and duration of exercise.
+   This app will allow a user to view, create and track their daily workouts. The user will be able to log multiple excercises on any given day. They should also be able to track the name, type, weight, sets, reps and duration of exercise.
 
   ## Table of Contents
    [Description](#description)
@@ -24,15 +24,15 @@
   MIT
 
   ## Contributing
-  N/A
+  n/a
 
   ## Tests
-  node server.js
+  no testeing needed
 
   ## Questions
  
 
-  Find me on GitHub: smurpy823
+  Find me on GitHub: https://github.com/smurphy823/
 
   Email me with any questions: stephaniemurphy588@yahoo.com
 
